@@ -1,1 +1,2 @@
-# cs-core-subject
+# cs-core-subjects
+## Operating system
