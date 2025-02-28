@@ -67,7 +67,5 @@ Device Management:<br/>
 50.	Explain the concept of device management.<br/>
   </li>
 
-## 2. Data Base Management System
-
-
-
+# 2. Data Base Management System
+### Complete Note : Love baber help <a href= "https://drive.google.com/file/d/1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm/view"> (Click Here)</a>
