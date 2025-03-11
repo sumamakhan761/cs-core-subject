@@ -66,5 +66,14 @@ Device Management:<br/>
 50.	Explain the concept of device management.<br/>
   </li>
 
+### Some Coding Questions
+
+- [Print in Order](https://leetcode.com/problems/print-in-order/description/)
+- [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
+- [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/description/)
+- [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/)
+- [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
+- [Building H2O](https://leetcode.com/problems/building-h2o/description/)
+
 # 2. DataBase Management System
 ### Complete Note : Lovebaber <a href= "https://drive.google.com/file/d/1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm/view"> Click Here </a>
