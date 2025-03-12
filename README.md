@@ -64,9 +64,10 @@ Device Management:<br/>
 48.	Describe the differences between polling and interrupt-driven I/O.<br/>
 49.	What is a device queue, and how is it used in device management?<br/>
 50.	Explain the concept of device management.<br/>
-  </li>
+</li>
 
-### Some Coding Questions
+<details open>
+<summary>Some Coding Questions</summary>
 
 - [Print in Order](https://leetcode.com/problems/print-in-order/description/)
 - [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
@@ -75,5 +76,6 @@ Device Management:<br/>
 - [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/)
 - [Building H2O](https://leetcode.com/problems/building-h2o/description/)
 
+</details>
 # 2. DataBase Management System
 ### Complete Note : Lovebaber <a href= "https://drive.google.com/file/d/1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm/view"> Click Here </a>
